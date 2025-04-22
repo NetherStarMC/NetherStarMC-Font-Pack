@@ -1,4 +1,4 @@
 # NetherStarMC-Font-Pack
-A collection of fonts. All of which (except for the ones I made) are property of their original owners.
+For font junkies, as famous Raymond Larabie so eloquently puts it.
 
-If you're planning on distributing this, you must keep this here README file attached, otherwise you're nothing but a pirate, and pirates can go hang!
+All of featured in this font pack (except for the ones I made) are property of their original owners. If you're planning on distributing this, you must keep this here README file attached, otherwise you're nothing but a pirate, and pirates can go hang!
