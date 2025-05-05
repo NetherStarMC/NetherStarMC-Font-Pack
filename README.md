@@ -8,6 +8,6 @@ Nope! Each and every one (except for the ones I made) is property of their origi
 Yes! However, you have to include this README file, or you'll be nothing but a pirate, and pirates can go hang!
 
 ## Where did you even get these fonts?
-From multiple free font websites (e.g., DaFont.com and 1001 Fonts, among others), including those from the _Fonts_ folder on my computer.
+From multiple free font websites (e.g., DaFont.com and 1001 Fonts, among others), and a good few from the _Fonts_ folder on my computer.
 
 More questions to come.
